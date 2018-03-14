@@ -6,7 +6,7 @@ How to use:
 2.double click "ScheduleTask--DW--Install.bat" to install.
 3.double click "ScheduleTask--DW--Delete.bat" to uninstall, if needed:)
 
-Thanks to urkec from https://groups.google.com/forum/#!topic/microsoft.public.scripting.vbscript/lUubrNektpw. From his comment I found the way to kill the specific task under same parent process name.
+Thanks to urkec from https://groups.google.com/forum/#!topic/microsoft.public.scripting.vbscript/lUubrNektpw. From his comment I found the way to kill the specific task under same parent process name according to ProcessID.
 
 To build this script is to help the people who got lithiasis problem, and help prevent people from similar kind of disease.
 
