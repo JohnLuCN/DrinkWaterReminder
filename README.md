@@ -1,4 +1,4 @@
-# DrinkSomeWater
+# Drink Water Reminder
 This Vbscript helps setup "Drink Water Reminder" schedule for Windows Users. Take a rest and drink some water every hour is good for you:)))
 
 How to use:
